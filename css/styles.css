@@ -28,19 +28,19 @@ address{
     color: #0f0f0f;
 }
 
-h2, h3 {
+/* h2, h3 {
     font-weight: 700;
-}
+} */
 
 body {
-    color: #3f3c3c
-}
-.container {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: normal;
-    font-size: 110%;
+    padding: 50px 0px 0px 0px;
+    z-index: 0px;
 }
 
 em {
     font-weight: normal;
+}
+
+.navbar-dark {
+    background-color: #512DA8;
 }
