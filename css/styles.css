@@ -44,3 +44,7 @@ em {
 .navbar-dark {
     background-color: #512DA8;
 }
+
+a:hover {
+    text-decoration: none;
+}
